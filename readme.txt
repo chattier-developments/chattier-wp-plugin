@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Chattier ===
 Contributors: fidelechevarria
 Tags: chattier, chat, avatar, ai, customer support, virtual assistant, speech, voice
 Requires at least: 4.7
