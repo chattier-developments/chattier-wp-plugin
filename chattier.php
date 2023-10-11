@@ -2,7 +2,6 @@
 
 /**
  * Plugin Name: Chattier
- * Plugin URI: https://chattier.dev/
  * Description: Embed intelligent chatbots or avatars on any Wordpress site.
  * Version: 1.0.0
  * Author: Chattier
